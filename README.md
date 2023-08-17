@@ -23,6 +23,9 @@ Usage
 3. Select the target language from the dropdown.
 4. Click the "Translate" button to view the translated text.
 
+   - *Demo video link* : https://www.loom.com/share/df51b286317f446a823599186c0f6d18?sid=50e19f6e-69eb-4923-8acd-95f3a4c3c375
+
+
 Credits
 
 - This project utilizes the Microsoft Translator Text API.
